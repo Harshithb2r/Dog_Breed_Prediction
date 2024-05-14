@@ -2,4 +2,4 @@ Keras
 numpy
 streamlit
 tensorflow 
-opencv-python
+opencv_python==4.4.0.46
